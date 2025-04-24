@@ -1,0 +1,6 @@
+1. https://www.unknowncheats.me/forum/valorant/641022-arduino-ud.html 보고 아두이노 스푸핑하기
+(vid, pid 스푸핑 포함)
+2. 아두이노 ide 1.8.19 설치 https://www.arduino.cc/en/software/
+3. 아두이노 폴더 -> 마우스 폴더 들어가서 mouse.ino 켜기
+4. 파이썬 main.py 실행
+5. fov 90~120, speed 0.2~0.6  추천 나머지 오류 남
